@@ -1,15 +1,12 @@
 {
-  "name": "galifax/laravel-clickhouse",
+  "name": "esazykin/laravel-clickhouse",
   "type": "library",
   "license": "MIT",
   "keywords": [
-    "laravel",
-    "clickhouse",
-    "eloquent"
   ],
   "require": {
     "php": ">=7.1",
-    "laravel/framework": "7.*",
+    "laravel/framework": "5.5.*",
     "esazykin/clickhouse-builder": "^1.1"
   },
   "require-dev": {
